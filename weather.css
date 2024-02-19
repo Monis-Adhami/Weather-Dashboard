@@ -1,0 +1,35 @@
+.app-header {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.input-container {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.city-label {
+    margin-right: 10px;
+    font-size: 18px;
+}
+
+.city-input {
+    width: 200px;
+    padding: 5px;
+}
+
+.weather-info {
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 16px;
+}
+
+.map-container {
+    /* Add styles for the map container */
+}
+
+.app-container {
+    width: 80%;
+    margin: auto;
+}
